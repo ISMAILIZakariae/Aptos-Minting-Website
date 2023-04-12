@@ -65,7 +65,7 @@ const Header = () => {
               ))}
 
               <div className={`${classes.nav__right}`}>
-                <p className=" d-flex align-items-center gap-2 mb-0">
+                <p className=" flex align-items-center gap-2 mb-0">
                   {" "}
                   <ConnectWalletButton connectButton={!wallet.connected} className="d-flex" id="btn"/>{" "}
                 </p>

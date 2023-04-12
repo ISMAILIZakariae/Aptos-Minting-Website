@@ -1,7 +1,7 @@
-export const candyMachineAddress = "0x72a1e8c163037bf66abe4e4820250f70fc9ede25fc46bbc457843cafec65e077";
+export const candyMachineAddress = "0xc2edef4c527a6e99c3d75711d0953068cdc6110fda0913a4471a067cd35eb446";
 export const collectionName = "Aptos Doodles"; // Case sensitive!
-export const collectionCoverUrl = "https://cloudflare-ipfs.com/ipfs/QmeaecoSw88o2xyUAP4oZwAY66CWdifkfA1Dkd2YdAYjMG";
-export const mode = "dev"; // "dev" or "test" or "mainnet"
+export const collectionCoverUrl = "https://cloudflare-ipfs.com/ipfs/QmSfNXUfN5y96EHfF3zFCFTaJyYdtpen1ScogSkizHvZq7";
+export const mode = "test"; // "dev" or "test" or "mainnet"
 
 export let NODE_URL;
 export const CONTRACT_ADDRESS = "0x481efbf0c3cbec627b5f5674287d4ae6ee770da5949dcfe698a8520108236a33";
